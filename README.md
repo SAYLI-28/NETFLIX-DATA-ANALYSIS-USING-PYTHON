@@ -12,7 +12,7 @@ Business Intelligence: Translated raw data into actionable business recommendati
 📈 Key Business Insights
 
 Content Strategy: Movies comprise the majority of Netflix's catalog (X% vs Y% TV shows), indicating focus on diverse, standalone entertainment options
-Market Positioning: International Movies lead genre popularity, validating Netflix's global content investment strategy worth $XX billion annually
+Market Positioning: International Movies lead genre popularity, validating Netflix's global content investment strategy worth $ billion annually
 Content Optimization: Identified content duration sweet spots and outliers (longest: 'Once Upon a Time in America' at 229 min) for programming decisions
 
 🔧 Technical Skills Demonstrated
